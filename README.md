@@ -5,8 +5,8 @@
 I'm a 23-year-old AI and data analytics student with a passion for turning complex datasets into actionable insights and building smart systems that learn over time. I work with a mix of programming languages and tools to explore the boundaries of machine learning and data science. <br>
 
 
-🔧 Tech Stack:
-Programming Languages:
+🔧 Tech Stack: <br>
+Programming Languages: <br>
 🐍 Python: For machine learning models and data manipulation (NumPy, Pandas, scikit-learn) <br>
 🌐 SQL: Querying and managing relational databases <br>
 💻 C: System-level programming and algorithms <br>
@@ -14,7 +14,7 @@ Programming Languages:
 
 
 
-📘 What I’m Learning & Exploring:
+📘 What I’m Learning & Exploring: <br>
 Advanced algorithms for AI and ML <br>
 Neural networks and deep learning <br>
 Data preprocessing and feature engineering <br>
